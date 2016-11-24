@@ -15,7 +15,7 @@ var POP {
 
     init: function() {
 
-        // the proportion of width to height
+        // the proportion of width to heighta
         POP.RATIO = POP.WIDTH / POP.HEIGHT;
 
         // these will change when the screen is resized
